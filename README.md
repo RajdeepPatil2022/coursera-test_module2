@@ -1,2 +1,3 @@
-# coursera-test_module2
-This is the final submission for module 2 assignment
+#coursera_test_mod2
+##Done by Rajdeep Patil
+Run the other file named Coursera_test_mod2.html
